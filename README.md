@@ -10,15 +10,15 @@
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 
-I am a second-year engineering student specializing in Computer Science, with a heavy focus on the Internet of Things (IoT), Cybersecurity, and Blockchain Technology. I love building natively, prioritizing load speeds, and crafting smooth user experiences. 
+I am a second-year engineering student specializing in Computer Science, with a heavy focus on the Internet of Things (IoT), Cybersecurity, and Blockchain Technology. I love building natively, prioritizing load speeds and smooth user interfaces, and crafting smooth user experiences. 
 
--  **Currently building:** A small miniproject using flutter.
--  **Currently learning:** Dockerization and Kubernets.
--  **Looking to collaborate on:** Open-source SSaS projects and clean fullstack architectures.
--  **How to reach me:** Drop me a mail or connect me at LinkedIn!.
--  **Fun fact:** Dark Mode >>>> Light Mode.
+- 🔭 **Currently building:** A small miniproject using Flutter.
+- 🌱 **Currently learning:** Dockerization and Kubernetes.
+- 👯 **Looking to collaborate on:** Open-source SaaS projects and clean fullstack architectures.
+- 📫 **How to reach me:** [Drop me a mail](mailto:aksharsrijan07@gmail.com) or connect with me on LinkedIn!
+- ⚡ **Fun fact:** Dark Mode >>>> Light Mode.
 
 ---
 
@@ -38,18 +38,11 @@ I am a second-year engineering student specializing in Computer Science, with a 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AksharS07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=AksharS07&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksharS07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 ### 📈 Contribution Graph

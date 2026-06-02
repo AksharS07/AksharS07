@@ -14,11 +14,11 @@
 
 I am a second-year engineering student specializing in Computer Science, with a heavy focus on the Internet of Things (IoT), Cybersecurity, and Blockchain Technology. I love building natively, prioritizing load speeds and smooth user interfaces, and crafting smooth user experiences. 
 
-- 🔭 **Currently building:** A small miniproject using Flutter.
-- 🌱 **Currently learning:** Dockerization and Kubernetes.
-- 👯 **Looking to collaborate on:** Open-source SaaS projects and clean fullstack architectures.
-- 📫 **How to reach me:** [Drop me a mail](mailto:aksharsrijan07@gmail.com) or connect with me on LinkedIn!
-- ⚡ **Fun fact:** Dark Mode >>>> Light Mode.
+-  **Currently building:** 🤫.
+-  **Currently learning:** Dockerization and Kubernetes.
+-  **Looking to collaborate on:** Open-source SaaS projects and clean fullstack architectures.
+-  **How to reach me:** [Drop me a mail](mailto:aksharsrijan07@gmail.com) or connect with me on LinkedIn!
+-  **Hot Take!:** Dark Mode >>>> Light Mode.
 
 ---
 

@@ -16,7 +16,7 @@ I am a second-year engineering student specializing in Computer Science, with a 
 
 -  **Currently building:** 🤫.
 -  **Currently learning:** Self hosting and basic database management.
--  **Looking to collaborate on:** Open-source SaaS projects and clean fullstack architectures.
+-  **Looking to collaborate on:** Anything beginner friendly and interesting!
 -  **How to reach me:** [Drop me a mail](mailto:aksharsrijan07@gmail.com) or connect with me on LinkedIn!
 -  **Hot Take!:** Dark Mode >>>> Light Mode.
 

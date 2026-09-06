@@ -14,7 +14,7 @@
 
 I am a second-year engineering student specializing in Computer Science, with a heavy focus on the Internet of Things (IoT), Cybersecurity, and Blockchain Technology. I love building natively, prioritizing load speeds and smooth user interfaces, and crafting smooth user experiences. 
 
--  **Currently building:** 🤫.
+-  **Currently building:** Glance.
 -  **Currently learning:** Self hosting and basic database management.
 -  **Looking to collaborate on:** Anything beginner friendly and interesting!
 -  **How to reach me:** [Drop me a mail](mailto:aksharsrijan07@gmail.com) or connect with me on LinkedIn!

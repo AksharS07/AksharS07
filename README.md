@@ -12,7 +12,7 @@
 
 ###  About Me
 
-I am a second-year engineering student specializing in Computer Science, with a heavy focus on the Internet of Things (IoT), Cybersecurity, and Blockchain Technology. I love building natively, prioritizing load speeds and smooth user interfaces, and crafting smooth user experiences. 
+I am a third-year engineering student specializing in Computer Science, with a heavy focus on the Internet of Things (IoT), Cybersecurity, and Blockchain Technology. I love building natively, prioritizing load speeds and smooth user interfaces, and crafting smooth user experiences. 
 
 -  **Currently building:** Glance.
 -  **Currently learning:** Self hosting and basic database management.
